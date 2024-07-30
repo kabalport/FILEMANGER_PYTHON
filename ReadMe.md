@@ -1,7 +1,7 @@
 # File Manager Organizer
 
 ## 개요
-`File Manager Organizer`는 데스크탑의 `AUTO_FILEMANAGER` 폴더 내의 파일들을 파일 유형별로 정리하고, 불필요한 비어있는 폴더를 삭제하거나 기타 폴더로 이동하는 Python 스크립트입니다. 이 프로젝트는 개발자 포트폴리오의 일환으로, 파일 및 폴더 정리 자동화를 위한 예제로 작성되었습니다.
+`File Manager Organizer`는 데스크탑의 `AUTO_FILEMANAGER` 폴더 내의 파일들을 파일 유형별로 정리하고, 불필요한 비어있는 폴더를 삭제하거나 기타 폴더로 이동하는 Python 스크립트입니다.
 
 ## 기능
 - **파일 분류**: `AUTO_FILEMANAGER` 폴더 내의 파일들을 이미지, 문서, 오디오, 비디오, 압축 파일, 스크립트, 기타 파일 등으로 분류합니다.
